@@ -1,0 +1,15 @@
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\bin\Debug\net8.0\MadLibsGame.exe
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\bin\Debug\net8.0\MadLibsGame.deps.json
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\bin\Debug\net8.0\MadLibsGame.runtimeconfig.json
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\bin\Debug\net8.0\MadLibsGame.dll
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\bin\Debug\net8.0\MadLibsGame.pdb
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\MadLibsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\MadLibsGame.AssemblyInfoInputs.cache
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\MadLibsGame.AssemblyInfo.cs
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\MadLibsGame.csproj.CoreCompileInputs.cache
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\MadLibsGame.sourcelink.json
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\MadLibsGame.dll
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\refint\MadLibsGame.dll
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\MadLibsGame.pdb
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\MadLibsGame.genruntimeconfig.cache
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\MadLibsGame\MadLibsGame\obj\Debug\net8.0\ref\MadLibsGame.dll

@@ -1,0 +1,15 @@
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\bin\Debug\net8.0\Dagboken.exe
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\bin\Debug\net8.0\Dagboken.deps.json
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\bin\Debug\net8.0\Dagboken.runtimeconfig.json
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\bin\Debug\net8.0\Dagboken.dll
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\bin\Debug\net8.0\Dagboken.pdb
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\Dagboken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\Dagboken.AssemblyInfoInputs.cache
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\Dagboken.AssemblyInfo.cs
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\Dagboken.csproj.CoreCompileInputs.cache
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\Dagboken.sourcelink.json
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\Dagboken.dll
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\refint\Dagboken.dll
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\Dagboken.pdb
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\Dagboken.genruntimeconfig.cache
+C:\Users\kosra\Desktop\Skola\prog_forts\Lektion\Dagboken\Dagboken\obj\Debug\net8.0\ref\Dagboken.dll
